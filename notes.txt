@@ -1,0 +1,39 @@
+go to terminal
+
+cd myWebsite
+
+To work on files:
+
+1. open sublime and work on it
+2. type `index.html` in command prompt to open the file on chrome
+
+To upload your files:
+
+1. git add -u (to add all files) OR git add file_name.type (to add one file)
+example: `git add index.html` would add an html file called index
+2. git commit -m "a message which shows what you're committed to uploading"
+3. git push origin master (close the pop-up app, and enter your credentials on your command prompt)
+
+To download your repository:
+1. git pull origin master
+
+Useful terminal hotkeys
+
+1. `Alt` + `Spacebar` + `E`; `K` (to navigate around terminal)
+2. `Shift` + `arrow key` (i.e. <-) (helps you select text)
+3. `CTRL` + `C` (copy)
+4. `CTRL` + `F` (find text, click `ESC` to cancel)
+5. `CTRL` + `S` (save)
+
+To learn more about github:
+https://gist.github.com/davfre/8313299
+
+Window Command:
+1. cd directoryname (change directory to directory called directoryname)
+2. dir (shows what files are in your current directory)
+3. How do I know where I am? C:\Users\de\myWebsite> tells you that you are in path \Users\de\myWebsite. You can try cd `\Users\de\myWebsite` and it will take you back the same directory you're in.
+
+Basics of debugging:
+1. take your terminal error
+2. paste it on chrome and search using terminal hot key
+
