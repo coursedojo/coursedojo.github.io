@@ -1,11 +1,13 @@
-go to terminal
+go to terminal(common prompt)
 
-cd myWebsite
+c:\USERS\de>cd myWebsite
 
 To work on files:
 
 1. open sublime and work on it
 2. type `index.html` in command prompt to open the file on chrome
+To lookat whatI delete or modified: 
+type: git status
 
 To upload your files:
 
@@ -24,7 +26,8 @@ Useful terminal hotkeys
 3. `CTRL` + `C` (copy)
 4. `CTRL` + `F` (find text, click `ESC` to cancel)
 5. `CTRL` + `S` (save)
-
+6. `CTRL` + `z` (undo)
+7. `CTRL` + `SHIFT` + `z` (redo)
 To learn more about github:
 https://gist.github.com/davfre/8313299
 
